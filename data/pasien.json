@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Ahmad",
+        "sex": "Male",
+        "religion": "Muslim",
+        "phone": "081456273567",
+        "address": "Ciputat",
+        "nik": "12345"
+    },
+    {
+        "name": "Sela",
+        "sex": "Female",
+        "religion": "Christian",
+        "phone": "0814562735",
+        "address": "Bintaro",
+        "nik": "12346"
+    },
+    {
+        "name": "Joe",
+        "sex": "Male",
+        "religion": "Budhist",
+        "phone": "0814562737",
+        "address": "Ciledug",
+        "nik": "12347"
+    },
+    {
+        "name": "Samsul",
+        "sex": "Male",
+        "religion": "Muslim",
+        "phone": "0814562738",
+        "address": "Cinere",
+        "nik": "12348"
+    }
+]
